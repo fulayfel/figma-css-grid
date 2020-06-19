@@ -54,14 +54,4 @@ body {
       grid-template-rows: 5vh 5vh auto;
       grid-template-areas: "file file file" "tool tool tool" "nav  view props";
 }
-
-.help {
-  position: fixed;
-  bottom: 3vh;
-  right: 1vw;
-  width: 25px;
-  height: 25px;
-  border-radius: 50%;
-  background-color: black;
-}
 /*# sourceMappingURL=styles.css.map */
